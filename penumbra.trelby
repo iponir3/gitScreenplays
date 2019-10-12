@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:4
-Cursor/Column:3
+Cursor/Line:2
+Cursor/Column:8
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -174,8 +174,8 @@ Words:0
 #Header-String 1,0,r,,${PAGE}.
 #Header-Empty-Lines 1
 #Start-Script 
-.\STORY OUTLINE: 
-..I. 
-..II. 
-..III.
-..IV.
+.\STORY OUTLINE: Penubra 
+..Act I.  
+..Act II. 
+..Act III.
+..
