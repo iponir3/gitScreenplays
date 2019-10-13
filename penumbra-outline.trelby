@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:2
-Cursor/Column:8
+Cursor/Line:11
+Cursor/Column:3
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -175,7 +175,24 @@ Words:0
 #Header-Empty-Lines 1
 #Start-Script 
 .\STORY OUTLINE: Penubra 
-..Act I.  
+..Set in the 70s? 
+>.* Set in a time in history where the American conscious is
+..more internal, fear of self-corruption
+.."SHADES OF THE UNDERWORLD"
+..Penumbra Creature: Based on the "HAT-MAN" lore
+>.- Story captures the stress associated with a man
+>.experiencing sleep paralysis, and the events that occur in
+..his perspective
+..Act I. 
+..OPENING SCENE: 
+>.TV/Radio host asks listeners to draw nightmares/figures they
+..see in the night
+..* Is the time period before or after the film ends?
+>.- Asks viewers to call in and elaborate on drawings, they
+..call into the show 
+>.ref['Coast to Coast AM radio show Art Bell brodcast',
+.."circa.2001"]
+..
 ..Act II. 
 ..Act III.
 ..
