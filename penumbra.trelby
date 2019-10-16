@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:7
-Cursor/Column:20
+Cursor/Line:11
+Cursor/Column:5
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -174,29 +174,16 @@ Words:0
 #Header-String 1,0,r,,${PAGE}.
 #Header-Empty-Lines 1
 #Start-Script 
-.\STORY OUTLINE: Penubra 
-..Is everything he experiences a dream/sleep paralysis/reality
->.* Initially, when in a "dream state" we see the world from
-..his perspective, that line gets blurred
-..Set in the 70s? 
->.* Set in a time in history where the American conscious is
-..more internal, fear of self-corruption
-..* Elaborate on SUNDS
-.."SHADES OF THE UNDERWORLD"
-..Penumbra Creature: Based on the "HAT-MAN" lore
->.- Story captures the stress associated with a man
->.experiencing sleep paralysis, and the events that occur in
-..his perspective
-..Act I. 
-..OPENING SCENE: 
->.TV/Radio host asks listeners to draw nightmares/figures they
-..see in the night
-..* Is the time period before or after the film ends?
->.- Asks viewers to call in and elaborate on drawings, they
-..call into the show 
->.ref['Coast to Coast AM radio show Art Bell brodcast',
-.."circa.2001"]
-..
-..Act II. 
-..Act III.
+.\Eyes on camera a/the show
+.."STANDBY"
+.."STANDBY"
+.."STANDBY"
+>.A bright red light illuminates a cooridor to a dimly lit
+..studio. Blinking. Persistant. Conscious. 
+>.Unwavered in it's presence, we see it outline a host of
+..familiar shapes. Humanoid. Suspicious. Moving.
+..Then finally...
+.."LIVE"
+>.A bright green light takes what was once a sillouette of a
+..dreary ...    
 ..
